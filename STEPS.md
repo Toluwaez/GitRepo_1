@@ -13,4 +13,3 @@ Steps:
 # 11. Merged bug-fix-experimental with bug-fix
 # 12. Created a txt file for the 6th commit for bug-fix branch.
 # 13. Merged the bug-fix with the main branch finalizing the project.
-
